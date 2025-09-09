@@ -139,7 +139,7 @@ public:
         i2o.emplace(oid, ptr);
 
         /* If we got the ID from free_ids, mark that ID as used: */
-        if (free_ids.empty())
+        if (!free_ids.empty())
             free_ids.pop_back();
 
         return oid;
