@@ -29,6 +29,8 @@
 #include <mutex>
 #include <limits>
 
+#include <objektbuch/meta.hpp>
+
 namespace objektbuch {
 
 
