@@ -28,6 +28,7 @@
 #include <unordered_map>
 #include <mutex>
 #include <limits>
+#include <string>
 
 #include <objektbuch/meta.hpp>
 
