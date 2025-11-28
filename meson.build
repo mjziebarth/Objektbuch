@@ -1,4 +1,4 @@
-project('objektbuch', 'cpp', default_options : ['cpp_std=c++latest'])
+project('objektbuch', 'cpp', default_options : ['cpp_std=c++20'])
 
 include = include_directories('include')
 
