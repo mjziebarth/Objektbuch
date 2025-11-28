@@ -26,6 +26,7 @@
 
 #include <variant>
 #include <unordered_map>
+#include <vector>
 #include <mutex>
 #include <limits>
 #include <string>
